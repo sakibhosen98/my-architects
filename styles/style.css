@@ -157,6 +157,17 @@ nav li{
   width:100%;
   height: 100%;
 }
+.btn{
+  width: 100px;
+  height: 60px;
+  background-color: #FF900E;
+  position: relative;
+  bottom: 65px;
+}
+.description{
+  text-align: center;
+  color: white;
+}
 /* ============ facts styles =======*/
 .some-facts{
   width: 1000px;
